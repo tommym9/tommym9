@@ -4,13 +4,15 @@ I'm a Bristol based web developer and rubbish footballer with forever expanding 
 
 ### What I'm working towrds
 
-I'm currently working towards my Symfony and AWS accreditations. Symfony is going OK, but AWS is proper mind boggling!
+I'm currently working towards AWS accreditations.
 
 ### What I've finished
 
 I'm a [Drupal 8 Grand Master](https://certification.acquia.com/user/5954) and a Drupal 7 Certified Developer.
 
 I'm a certified [Laravel Developer](https://exam.laravelcert.com/is/tom-metcalfe/certified-since/2020-01-24?).
+
+I'm a certified [Symfony 3 and Twig 3 developer](https://connect.symfony.com/profile/blacklabel_tom)
 
 ## Where to find me
 
