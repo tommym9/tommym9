@@ -8,7 +8,7 @@ I'm currently working towards AWS accreditations.
 
 ### What I've finished
 
-I'm a [Drupal 8 Grand Master](https://certification.acquia.com/user/5954) and a Drupal 7 Certified Developer.
+I'm [Drupal 8 Tripe Certified](https://certification.acquia.com/user/5954) and a Drupal 7 Certified Developer.
 
 I'm a certified [Laravel Developer](https://exam.laravelcert.com/is/tom-metcalfe/certified-since/2020-01-24?).
 
